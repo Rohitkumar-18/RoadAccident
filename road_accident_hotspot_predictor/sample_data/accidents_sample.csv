@@ -1,0 +1,13 @@
+accident_id,date,time,latitude,longitude,accident_type,severity,weather,road_type,vehicle_type
+BLR001,2025-01-12,08:15,12.9716,77.5946,Collision,Serious,Clear,Junction,Two-wheeler
+BLR002,2025-02-04,18:30,12.9720,77.5949,Collision,Minor,Rainy,Junction,Car
+BLR003,2025-03-21,21:10,12.9712,77.5942,Skid,Serious,Clear,Main Road,Two-wheeler
+BLR004,2025-04-11,09:20,12.9352,77.6245,Collision,Fatal,Clear,Junction,Car
+BLR005,2025-05-09,19:45,12.9355,77.6248,Collision,Serious,Rainy,Junction,Two-wheeler
+BLR006,2025-06-16,17:05,12.9349,77.6241,Skid,Minor,Cloudy,Main Road,Two-wheeler
+BLR007,2025-07-02,11:35,12.9850,77.6050,Collision,Minor,Clear,Main Road,Car
+BLR008,2025-08-14,20:15,12.9853,77.6052,Collision,Serious,Rainy,Main Road,Two-wheeler
+BLR009,2025-09-23,07:55,12.9847,77.6047,Collision,Minor,Clear,Junction,Car
+BLR010,2025-10-01,22:00,13.0200,77.6400,Skid,Minor,Clear,Main Road,Two-wheeler
+BLR011,2025-10-17,18:45,13.0202,77.6403,Collision,Serious,Rainy,Junction,Car
+BLR012,2025-11-03,16:20,13.0197,77.6397,Collision,Minor,Cloudy,Main Road,Bus
